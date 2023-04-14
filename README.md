@@ -1,4 +1,4 @@
-Particle Swarm Optimization for Electric Vehicle Charging Station Placement
+*Particle Swarm Optimization for Electric Vehicle Charging Station Placement*
 This Python program uses Particle Swarm Optimization (PSO) to optimize the placement of charging stations for electric vehicles. The objective is to minimize the charging time for the electric vehicles while maximizing their range.
 ![image](https://user-images.githubusercontent.com/77532204/232150350-d6b36f47-32db-4431-9c7e-be721641d484.png)
 
